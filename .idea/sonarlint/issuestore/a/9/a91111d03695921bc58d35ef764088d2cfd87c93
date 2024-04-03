@@ -1,0 +1,28 @@
+
+j	java:S116	"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷©äj8¯²Ï ê1
+t	java:S116
+"SRename this field "DOT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÒ÷÷øÿÿÿÿ8¯²Ï ê1
+t	java:S116"SRename this field "ALL_DOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã“Ÿñúÿÿÿÿ8¯²Ï ê1
+L
+java:S2387"*"x" is the name of a field in "Component".(¬ó§Ùøÿÿÿÿ8²²Ï ê1
+G
+java:S2387"*"y" is the name of a field in "Component".(×›—Ã8²²Ï ê1
+=
+java:S1170	"!Make this final field static too.(÷©äj8³²Ï ê1
+C
+java:S1170
+"!Make this final field static too.(éÒ÷÷øÿÿÿÿ8³²Ï ê1
+C
+java:S1170"!Make this final field static too.(ã“Ÿñúÿÿÿÿ8³²Ï ê1
+v
+java:S1450"TRemove the "timer" field and declare it as a local variable in the relevant methods.(å¡Ê˜ûÿÿÿÿ8µ²Ï ê1
+G
+java:S1948"%Make "dot" transient or serializable.(Í‰ýÆþÿÿÿÿ8¶²Ï ê1
+D
+java:S1948"'Make "apple" transient or serializable.(Í»¨â8¶²Ï ê1
+@
+java:S2119*"Save and re-use this "Random".(‡€îìüÿÿÿÿ8¾²Ï ê1
+@
+java:S2119+"Save and re-use this "Random".( ó¬²ûÿÿÿÿ8¾²Ï ê1
+D
+java:S1068	"(Remove this unused "SIZE" private field.(÷©äj8Ç²Ï ê1
