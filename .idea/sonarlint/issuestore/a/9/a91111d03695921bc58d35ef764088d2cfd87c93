@@ -1,28 +1,26 @@
 
 j	java:S116
-"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷©äj8à¥ÚÄê1
-t	java:S116"SRename this field "DOT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÒ÷÷øÿÿÿÿ8à¥ÚÄê1
-t	java:S116"SRename this field "ALL_DOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã“Ÿñúÿÿÿÿ8à¥ÚÄê1
+"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷©äj8˜©«‰ğ1
+t	java:S116"SRename this field "DOT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÒ÷÷øÿÿÿÿ8˜©«‰ğ1
+t	java:S116"SRename this field "ALL_DOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã“Ÿñúÿÿÿÿ8™©«‰ğ1
 L
-java:S2387"*"x" is the name of a field in "Component".(¬ó§Ùøÿÿÿÿ8ç¥ÚÄê1
+java:S2387"*"x" is the name of a field in "Component".(¬ó§Ùøÿÿÿÿ8©«‰ğ1
 G
-java:S2387"*"y" is the name of a field in "Component".(×›—Ã8ç¥ÚÄê1
+java:S2387"*"y" is the name of a field in "Component".(×›—Ã8©«‰ğ1
 =
 java:S1170
-"!Make this final field static too.(÷©äj8è¥ÚÄê1
+"!Make this final field static too.(÷©äj8©«‰ğ1
 C
-java:S1170"!Make this final field static too.(éÒ÷÷øÿÿÿÿ8è¥ÚÄê1
+java:S1170"!Make this final field static too.(éÒ÷÷øÿÿÿÿ8©«‰ğ1
 C
-java:S1170"!Make this final field static too.(ã“Ÿñúÿÿÿÿ8è¥ÚÄê1
+java:S1170"!Make this final field static too.(ã“Ÿñúÿÿÿÿ8©«‰ğ1
 v
-java:S1450"TRemove the "timer" field and declare it as a local variable in the relevant methods.(å¡Ê˜ûÿÿÿÿ8ê¥ÚÄê1
+java:S1450"TRemove the "timer" field and declare it as a local variable in the relevant methods.(å¡Ê˜ûÿÿÿÿ8¢©«‰ğ1
 G
-java:S1948"%Make "dot" transient or serializable.(Í‰ıÆşÿÿÿÿ8ë¥ÚÄê1
+java:S1948"%Make "dot" transient or serializable.(Í‰ıÆşÿÿÿÿ8£©«‰ğ1
 D
-java:S1948"'Make "apple" transient or serializable.(Í»¨â8ë¥ÚÄê1
-@
-java:S2119/"Save and re-use this "Random".(‡€îìüÿÿÿÿ8õ¥ÚÄê1
-@
-java:S21190"Save and re-use this "Random".( ó¬²ûÿÿÿÿ8õ¥ÚÄê1
-X	java:S125D"<This block of commented-out lines of code should be removed.(æÍğ8›«åÄê1
-X	java:S125F"<This block of commented-out lines of code should be removed.(™è 8ÑÇåÄê1
+java:S1948"'Make "apple" transient or serializable.(Í»¨â8£©«‰ğ1
+:
+java:S2119/"Save and re-use this "Random".(¼İÅf8âÛ¹‰ğ1
+X	java:S125E"<This block of commented-out lines of code should be removed.(æÍğ8·©«‰ğ1
+X	java:S125G"<This block of commented-out lines of code should be removed.(™è 8¸©«‰ğ1
